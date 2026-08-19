@@ -47,7 +47,7 @@ Também me dedico ao **aprendizado contínuo**, **suporte técnico a usuários**
 ![Node.js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![.NET](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Prisma][(https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white))
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ### DevOps e Ferramentas
