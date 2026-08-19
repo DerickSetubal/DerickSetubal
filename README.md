@@ -59,13 +59,6 @@ Também me dedico ao **aprendizado contínuo**, **suporte técnico a usuários**
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DerickSetubal&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerickSetubal&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🚀 Filosofia
